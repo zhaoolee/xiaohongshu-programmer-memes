@@ -2,14 +2,9 @@
 
 ## 关于本项目
 
-记住，当你传递一张程序员梗图的时候
-你不是在传递一张发绿的老梗
-你传递的
-是古典互联网精神最后的火炬！
-github.com/zhaoolee
-
-本仓库是[zhaoolee的小红书账号](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)的备份。
-
+> 记住，当你传递一张程序员梗图的时候
+> 你不是在传递一张发绿的老梗
+> **你传递的，是古典互联网精神最后的火炬！**
 
 ## 正文(最近更新：2025-09-21)
 
@@ -562,6 +557,9 @@ github.com/zhaoolee
 - 程序员段子
 - 编程生活趣事
 - 程序员笑话
+
+
+本仓库是[zhaoolee的小红书账号](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)的备份。
 
 ## 授权许可
 
