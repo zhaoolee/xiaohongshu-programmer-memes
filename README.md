@@ -2,6 +2,9 @@
 
 ![](README.assets/description.png)
 
+
+**本仓库是[zhaoolee的小红书账号](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)的备份**。
+
 ---
 
 记住，当你传递一张**程序员梗图**的时候🧑‍💻
@@ -12,11 +15,6 @@
 
 **是古典互联网精神最后的火炬！🗽**
 
----
-
-**本仓库是[zhaoolee的小红书账号](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)的备份**。
-
----
 
 ## 正文(最近更新：2025-09-25)
 
@@ -613,6 +611,7 @@
 
 
 ## 仓库标签关键词
+
 - 程序员梗图火炬
 - 小红书程序员
 - 程序员表情包
@@ -620,6 +619,11 @@
 - 编程生活趣事
 - 程序员笑话
 
+## 本仓库的依赖
+
+- Keynote
+- ChatGPT
+- 小红书的数值提升激励
 
 
 
