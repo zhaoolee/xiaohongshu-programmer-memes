@@ -1,6 +1,8 @@
-# 程序梗图火炬🧑‍💻🗽
+# 程序梗图火炬🗽
 
 ![](README.assets/description.png)
+
+---
 
 记住，当你传递一张**程序员梗图**的时候🧑‍💻
 
@@ -10,9 +12,57 @@
 
 **是古典互联网精神最后的火炬！🗽**
 
+---
+
+**本仓库是[zhaoolee的小红书账号](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)的备份**。
+
+---
+
+## 正文(最近更新：2025-09-25)
 
 
-## 火炬！火炬！(最近更新：2025-09-21)
+### 程序员的前任与现任：IDEA VS CURSOR
+
+![rednote-3-4-127](README.assets/rednote-3-4-127.jpeg)
+
+> [查看小红书评论](http://xhslink.com/o/2xDuFiWSMT3)
+
+### 按量付费 VS 月付订阅
+
+![rednote-3-4-126](README.assets/rednote-3-4-126.jpeg)
+
+> [查看小红书评论](http://xhslink.com/o/3kipUaI1Z9G)
+
+
+### PHP是全世界最好的语言！
+
+![rednote-3-4-125](README.assets/rednote-3-4-125.jpeg)
+
+
+> [查看小红书评论](http://xhslink.com/o/DXZnlIt1Hr)
+
+
+### Java VS 曾经的对手 
+
+![rednote-3-4-124](README.assets/rednote-3-4-124.jpeg)
+
+> [查看小红书评论](http://xhslink.com/o/27Q7dXZ25UW)
+
+
+### PHP是最好的语言，它快速，强大，免费！ 
+
+![rednote-3-4-123](README.assets/rednote-3-4-123.jpeg)
+
+
+> [查看小红书评论](http://xhslink.com/o/1qsb1gMkDpw)
+
+
+### 你以为的团队编程VS实际的团队编程
+
+![rednote-3-4-122](README.assets/rednote-3-4-122.jpeg)
+
+> [查看小红书评论](http://xhslink.com/o/4Wfxx0HgbFy)
+
 
 ### Java与Lava（岩浆） 是异父异母的亲兄弟
 
@@ -571,7 +621,7 @@
 - 程序员笑话
 
 
-本仓库是[zhaoolee的小红书账号](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)的备份。
+
 
 ## 授权许可
 
